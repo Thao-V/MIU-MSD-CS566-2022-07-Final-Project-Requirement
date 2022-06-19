@@ -20,5 +20,5 @@
 * Frontend: React
 * Backend: NodeJS Express, Mongoose, Cors
 * Database: MongoDB
-* Others: Push notification, React-bootstrap
+* Others: Push notification, React-bootstrap, payment method (stripe/square)
 ## Deloyment: AWS
