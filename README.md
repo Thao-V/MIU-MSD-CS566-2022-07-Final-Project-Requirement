@@ -39,9 +39,9 @@ After starting your project, you should report in the file report.md every morni
 
 ## Timeline 
 I will send the exact time by email to each person.
-* 06/21/2022: Report the project topic (20 minutes) 
+* 06/21/2022: Report the project topic (15 minutes) 
 
-* 06/22/2022: Report on the design (Frontend/Backend/Database) (20 minutes) 
+* 06/22/2022: Report on the design (Frontend/Backend/Database) (15 minutes) 
 
 * 06/30/2022: Push the final code to github 
 
