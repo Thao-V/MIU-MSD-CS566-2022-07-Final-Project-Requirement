@@ -1,0 +1,24 @@
+# Please put your project specification here
+## The followings are a sample, please clean it and make your own
+
+# Build an application for managing books in a library
+## Auth
+* Login
+* Logout
+* Signup
+## App functions
+### Admin user
+* Create/Read/Delete/Update books
+### Regular user
+* Borrow books
+* Return books
+* Search a book
+* Add book to cart
+### Special functions
+* Penalty for late return
+## Technology
+* Frontend: React
+* Backend: NodeJS Express, Mongoose, Cors
+* Database: MongoDB
+* Others: 
+## Deloyment: AWS
