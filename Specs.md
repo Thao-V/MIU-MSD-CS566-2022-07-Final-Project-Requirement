@@ -18,7 +18,7 @@
 * Penalty for late return
 ## Technology
 * Frontend: React
-* Backend: NodeJS Express, Mongoose, Cors
+* Backend: NodeJS Express, Mongoose, Cors, bcrypt for hashing, jwt
 * Database: MongoDB
-* Others: Push notification, React-bootstrap, payment method (stripe/square)
+* Others: Push notification, React-bootstrap, payment method for penalty (stripe/square), swagger
 ## Deloyment: AWS
