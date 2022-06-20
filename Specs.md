@@ -10,6 +10,7 @@
 ### Admin user
 * Create/Read/Delete/Update books
 ### Regular user
+* List books
 * Borrow books
 * Return books
 * Search a book
