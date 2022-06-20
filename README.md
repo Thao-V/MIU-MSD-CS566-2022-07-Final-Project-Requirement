@@ -47,4 +47,5 @@ I will send the exact time by email to each person.
 
 * 07/01/2022: Present the project (20 minutes) 
 
-I am available from 10:00 AM – 12:00 PM, Mon – Fri. I am going to open a channel for discussion each day. Please send any questions in this channel. I will give you a call back if needed. 
+
+I am available from 10:00 AM – 12:00 PM, Mon – Fri. Please send any question in advance. I will give you a call back if needed. 
