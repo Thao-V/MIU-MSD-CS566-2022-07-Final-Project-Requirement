@@ -1,5 +1,5 @@
 # MIU-MSD-CS566-2022-07-Final-Project-Requirement
-* Duration (2 weeks): 06/20/2022 - 07/01/2022 
+Duration (2 weeks): 06/20/2022 - 07/01/2022 
 
 ## Project topic 
 
