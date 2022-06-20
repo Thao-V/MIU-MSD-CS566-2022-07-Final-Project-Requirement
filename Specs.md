@@ -20,5 +20,5 @@
 * Frontend: React
 * Backend: NodeJS Express, Mongoose, Cors, bcrypt for hashing, jwt
 * Database: MongoDB
-* Others: Push notification, React-bootstrap, payment method for penalty (stripe/square), swagger
+* Others: Push notification, React-bootstrap, payment method for penalty (stripe/square), swagger, Unit Test
 ## Deloyment: AWS
